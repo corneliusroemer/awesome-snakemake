@@ -6,7 +6,7 @@
 
 ## Profiling
 
-- [snakemake-stats](https://blab.github.io/snakemake-stats/)
+- [snakemake-stats](https://blab.github.io/snakemake-stats/) generates a Gantt chart of your workflow using `stats.json`
 
 ## Contribute
 
