@@ -2,28 +2,11 @@
 
 > A curated list of awesome snakemake resources
 
+## Learning
 
-## Contents
+## Profiling
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [snakemake-stats](https://blab.github.io/snakemake-stats/)
 
 ## Contribute
 
